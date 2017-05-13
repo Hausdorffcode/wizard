@@ -1,0 +1,12 @@
+C:\Users\huangqiming\Documents\python\c#金旭亮\Wizard\Wizard\bin\Debug\Wizard.exe.config
+C:\Users\huangqiming\Documents\python\c#金旭亮\Wizard\Wizard\bin\Debug\Wizard.exe
+C:\Users\huangqiming\Documents\python\c#金旭亮\Wizard\Wizard\bin\Debug\Wizard.pdb
+C:\Users\huangqiming\Documents\python\c#金旭亮\Wizard\Wizard\obj\Debug\Wizard.frmMain.resources
+C:\Users\huangqiming\Documents\python\c#金旭亮\Wizard\Wizard\obj\Debug\Wizard.frmOther.resources
+C:\Users\huangqiming\Documents\python\c#金旭亮\Wizard\Wizard\obj\Debug\Wizard.frmStep1.resources
+C:\Users\huangqiming\Documents\python\c#金旭亮\Wizard\Wizard\obj\Debug\Wizard.frmStep2.resources
+C:\Users\huangqiming\Documents\python\c#金旭亮\Wizard\Wizard\obj\Debug\Wizard.frmStep3.resources
+C:\Users\huangqiming\Documents\python\c#金旭亮\Wizard\Wizard\obj\Debug\Wizard.Properties.Resources.resources
+C:\Users\huangqiming\Documents\python\c#金旭亮\Wizard\Wizard\obj\Debug\Wizard.csproj.GenerateResource.Cache
+C:\Users\huangqiming\Documents\python\c#金旭亮\Wizard\Wizard\obj\Debug\Wizard.exe
+C:\Users\huangqiming\Documents\python\c#金旭亮\Wizard\Wizard\obj\Debug\Wizard.pdb
